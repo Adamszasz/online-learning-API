@@ -1,4 +1,4 @@
-#client app to call APIs
+#client app to call API
 
 import json
 import requests
