@@ -13,3 +13,4 @@ Solution cointains:
 ### bank_expenses_obfuscated.zip
 - data source
 - client app usses it to stream data to endpoint /sample
+- necessary to unzipp
